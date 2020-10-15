@@ -1,0 +1,11 @@
+OpenStack is a cloud operating system that controls large pools of compute, storage, and networking resources throughout a datacenter all managed through a dashboard that gives
+administrators control while empowering their users to provision resources through a web interface
+Other OpenStack Functional Modules:
+Block Storage (Cinder) provides persistent block-level storage devices for use with Nova instances managed by the Dashboard. 
+Networking (Neutron) provides networks and IP addresses management, and gives users self-service ability over network configuration. 
+Dashboard (Horizon) provides administrators and users a graphical interface to access, provision and automate cloud-based resources. 
+Identity Service (Keystone) provides a central directory of users mapped to OpenStack services. It acts as a common authentication system 
+across the cloud OS and can integrate with existing backend directories like LDAP.
+Container Scheduling and Orchestration 
+Heat
+Sahara
